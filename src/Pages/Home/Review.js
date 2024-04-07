@@ -7,7 +7,7 @@ const Review = () => {
         OUR CUSTOMERS
       </div>
       <div className="font-md text-4xl font-bold text-center my-3">
-        Happily Insured! with Aptoclame Health
+        Happily Insured! with Aptoclaim Health
       </div>
       <div className="font-md  font-medium text-center my-3">
         We find rewards through the words of our customers.
@@ -22,8 +22,8 @@ const Review = () => {
         </div>
         <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
           <span className="mb-8 leading-relaxed text-lg">
-          I've been a customer of Aptoclame for over 8 years, during which I filed two claims. 
-          Both were efficiently verified and settled by ApptoClame within minutes, providing seamless 
+          I've been a customer of Aptoclaim for over 8 years, during which I filed two claims. 
+          Both were efficiently verified and settled by Apptoclaim within minutes, providing seamless 
           support throughout my hospital stays.
           </span>
           <h1 className="title-font sm:text-4xl text-3xl mb-1 font-medium text-gray-900">
