@@ -25,7 +25,7 @@ const BenefitIsu = () => {
                 />
                 <div className="p-6">
                   <h1 className="title-font text-2xl font-medium text-gray-900 mb-3">
-                    What is Aptoclame?
+                    What is Aptoclaim?
                   </h1>
 
                   <div className="flex items-center flex-wrap ">
@@ -66,7 +66,7 @@ const BenefitIsu = () => {
                 />
                 <div className="p-6">
                   <h1 className="title-font text-2xl font-medium text-gray-900 mb-3">
-                    What is normal <br /> instant clame?
+                    What is normal <br /> instant claim?
                   </h1>
 
                   <div className="flex items-center flex-wrap ">

@@ -1,11 +1,11 @@
 import React from 'react'
 import Map from './Map'
-import Steps from './Steps'
+import BlockchainClaimProcess from './BlockchainClaimProcess'
 import CaresuranceHero from './CaresuranceHero'
 const About = () => {
   return (
     <div>
-      <Steps />
+      <BlockchainClaimProcess />
       <CaresuranceHero />
       <Map />
     </div>

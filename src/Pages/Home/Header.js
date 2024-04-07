@@ -58,14 +58,13 @@ const Header = () => {
                       htmlFor="phone"
                       className="block mb-2 text-sm font-medium text-gray-900 light:text-white"
                     >
-                      Phone number
+                      PUID(Private Unique ID)
                     </label>
                     <input
                       type="tel"
-                      id="phone"
+                      id="text"
                       className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 light:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 light:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                      placeholder=" +91 1234567890"
-                      pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+                      placeholder="8888 8888 8888 8888 8888"
                       required=""
                     />
                   </div>

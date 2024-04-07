@@ -13,25 +13,29 @@ const CaresuranceHero = () => {
         </div>
         <div className="text-center lg:w-2/3 w-full">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-            Welcome to Caresurance Health Insurance
+            Welcome to Claimsurance Health Insurance
           </h1>
           <p className="mb-8 text-lg leading-relaxed">
-            Get comprehensive health insurance coverage that fits your needs and
-            provides peace of mind. Our tailored plans ensure you and your loved
-            ones have access to quality healthcare.
+          Experience peace of mind with our comprehensive health insurance coverage,
+           meticulously designed to cater to your unique healthcare requirements. Our 
+           plans ensure that you and your loved ones are always within reach of top-notch medical care.
           </p>
           <p className="mb-4 text-gray-700  text-lg">
-            Hi, I'm Miraj Sankdecha a passionate MERN stack developer. I am
-            proud to have created this website for Caresurance Health Insurance,
-            leveraging the power of modern web technologies to bring you a
-            seamless and user-friendly experience.
+          As a collective of forward-thinking Web3 developers, we take pride in architecting
+           the Apto Health Insurance website. Our expertise in cutting-edge web technologies 
+           has allowed us to deliver a streamlined and intuitive platform experience.
           </p>
           <p className="mb-8 text-gray-700  text-lg">
-            As a developer, I am dedicated to crafting elegant and efficient
-            solutions that solve real-world problems. With a strong background
-            in full-stack development, I have implemented advanced features and
-            functionalities that enhance your interactions with our health
-            insurance platform.
+          Our team is committed to innovation and excellence in the digital realm. With a robust
+           foundation in full-stack development and a keen focus on Web3 solutions, we've integrated 
+           sophisticated features and functionalities to elevate your interaction with our health insurance 
+           services, despite occasionally facing the challenges inherent in pioneering Web3 applications.
+
+
+
+
+
+
           </p>
         </div>
       </div>
