@@ -1,6 +1,6 @@
 import React from "react";
 import { RiCustomerService2Line } from "react-icons/ri";
-import logo from "../../image/logo.png";
+import logo from "../../image/logo1.png";
 import { Link } from "react-router-dom";
 import { useAuth } from "../Plans/Auth/auth"; // Import the useAuth hook
 
