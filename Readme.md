@@ -30,10 +30,13 @@ Our Apto Health Insurance Platform revolutionizes the traditional claim process 
 (Place for uploading images)
 
 - ![image](https://github.com/saatvik-29/devtry/assets/121422100/30094815-340f-4ba5-bf15-514d7e627d8a)
+- ![image](https://github.com/saatvik-29/devtry/assets/121422100/ed240f6c-3066-4836-95b5-33d0d596cee0)
+- ![image](https://github.com/saatvik-29/devtry/assets/121422100/eb9a111a-ea56-4ff5-8eb3-275a36acb6b1)
+- ![image](https://github.com/saatvik-29/devtry/assets/121422100/0b67b2da-66dc-4264-b6e7-90f19b25e8a6)
+- ![image](https://github.com/saatvik-29/devtry/assets/121422100/c049aee1-c532-4d46-a9a7-8e3f05b8ee1d)
+- ![image](https://github.com/saatvik-29/devtry/assets/121422100/72d32763-3997-450f-8a50-e97d50b6eb94)
 
-- ![Image Description 2](image-url-2)
-- ![Image Description 3](image-url-3)
-- ![Image Description 4](image-url-4)
+
 
 ---
 
