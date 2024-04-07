@@ -6,14 +6,14 @@ const BenefitIsu = () => {
       <div className="text-gray-600 body-font">
         <div className="container px-5 pt-24 mx-auto">
           <div className="font-md text-blue-600 font-bold text-center my-3">
-            Benefits of Health Insurance
+            Benefits of Aptoclaim
           </div>
           <div className="font-md text-4xl font-bold text-center my-3">
-            Know How Insurance Benefits You
+            Know How Decentralization Benefits You
           </div>
           <div className="font-md  font-medium text-center my-3">
             The needs of the people can vary, so know about the different types
-            of insurance and stay protected during uncertainties.
+            of clams and stay protected during uncertainties.
           </div>
           <div className="flex flex-wrap m-4 justify-center">
             <div className="p-4 md:w-[30]">
@@ -25,7 +25,7 @@ const BenefitIsu = () => {
                 />
                 <div className="p-6">
                   <h1 className="title-font text-2xl font-medium text-gray-900 mb-3">
-                    What is Health Insurance?
+                    What is Aptoclame?
                   </h1>
 
                   <div className="flex items-center flex-wrap ">
@@ -45,7 +45,7 @@ const BenefitIsu = () => {
                 />
                 <div className="p-6">
                   <h1 className="title-font text-2xl font-medium text-gray-900 mb-3">
-                    Family Health Insurance ?
+                   What is Aptoclaim garentee ?
                   </h1>
 
                   <div className="flex items-center flex-wrap ">
@@ -66,7 +66,7 @@ const BenefitIsu = () => {
                 />
                 <div className="p-6">
                   <h1 className="title-font text-2xl font-medium text-gray-900 mb-3">
-                    What is Personal <br /> Accident Insurance?
+                    What is normal <br /> instant clame?
                   </h1>
 
                   <div className="flex items-center flex-wrap ">

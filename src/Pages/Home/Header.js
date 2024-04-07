@@ -2,11 +2,11 @@ import React, { useState, useEffect } from "react";
 const Header = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
-    "https://www.starhealth.in/_next/image/?url=https%3A%2F%2Fd28c6jni2fmamz.cloudfront.net%2FIB_212544_212544115839217_SM_759742_2f536d6159.jpg&w=640&q=75",
-    "https://www.starhealth.in/_next/image/?url=https%3A%2F%2Fd28c6jni2fmamz.cloudfront.net%2Fodisha_v1_1a4f1850fc.png&w=640&q=75",
+    "https://img.etimg.com/thumb/width-640,height-480,imgsize-29486,resizemode-75,msid-85510896/wealth/insure/health-insurance/how-to-file-reimbursement-claim-for-health-insurance-cover/cohealpol.jpg",
+    "https://img.etimg.com/thumb/width-640,height-480,imgsize-499843,resizemode-75,msid-107345649/wealth/tax/tax-saving/taxation-tme-is-here-decode-how-you-can-realise-the-potential-of-multi-year-health-insurance-in-your-portfolio/lead-image-paint.jpg",
     "https://www.starhealth.in/_next/image/?url=https%3A%2F%2Fd28c6jni2fmamz.cloudfront.net%2FG20_image_b858836ae8.jpg&w=640&q=75",
-    "https://www.starhealth.in/_next/image/?url=https%3A%2F%2Fd28c6jni2fmamz.cloudfront.net%2FIB_212544_212544115616583_SM_742722_dfc2e6d14d.jpg&w=640&q=75",
-  ];
+    "https://img.etimg.com/thumb/width-640,height-480,imgsize-29486,resizemode-75,msid-85510896/wealth/insure/health-insurance/how-to-file-reimbursement-claim-for-health-insurance-cover/cohealpol.jpg",
+  ]
 
   useEffect(() => {
     const interval = setInterval(() => {
